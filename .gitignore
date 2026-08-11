@@ -1,0 +1,33 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+
+# Large model artifacts
+my_final_emotion_model/
+*.safetensors
+
+# Datasets and archives
+*.csv
+*.zip
+
+# Documents and media
+*.pptx
+*.docx
+*.pdf
+*.HEIC
+*.heic
+*.jpeg
+*.jpg
+*.png
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
